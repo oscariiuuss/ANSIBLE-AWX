@@ -7,7 +7,7 @@ In this guide, we’ll walk through the process of installing Ansible AWX, an op
     <img width="60%" src="./CAPS/2.jpg"> 
 </p>
 
-![alt text](https://github.com/oscariiuuss/images/blob/main/CAPS/2.jpg?raw=true)
+<!-- ![alt text](https://github.com/oscariiuuss/images/blob/main/CAPS/2.jpg?raw=true) -->
 
 Ansible AWX is a powerful and open-source web-based interface for managing Ansible projects, playbooks, inventories, and job scheduling. It serves as the upstream project for Red Hat Ansible Automation Platform and provides a user-friendly platform to simplify automation workflows. With Ansible AWX, organizations and teams can efficiently manage their infrastructure, orchestrate tasks, and streamline DevOps processes.
 
